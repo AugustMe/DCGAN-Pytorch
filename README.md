@@ -16,3 +16,5 @@ ipython==7.16.1
 # References
 
 https://github.com/qq995431104/DCGAN-Pytorch
+
+https://github.com/pytorch/examples/tree/master/dcgan  
