@@ -13,10 +13,10 @@ ipython==7.16.1
 # Results
 
 epoch 20:  
-![](/results/fake_samples_epoch_020.jpg)
+![](/results/fake_samples_epoch_020.png)
 
 epoch 100:    
-![](/results/fake_samples_epoch_099.jpg)  
+![](/results/fake_samples_epoch_099.png)  
 
 example_training_imgs:  
 ![](example_training_imgs.jpg)  
