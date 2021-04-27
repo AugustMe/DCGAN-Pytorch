@@ -1,6 +1,6 @@
 # DCGAN-Pytorch
 
-Use dcgan to generate pictures
+Use dcgan to generate pictures，if you like it, please star it and the project will continue to be maintained.   
 
 # Environments
 
