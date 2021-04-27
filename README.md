@@ -12,16 +12,20 @@ ipython==7.16.1
 
 # Results
 
-epoch 20:  
+### epoch 20:  
+
 ![](/results/fake_samples_epoch_020.png)
 
-epoch 100:    
+### epoch 100:    
+
 ![](/results/fake_samples_epoch_099.png)  
 
-example_training_imgs:  
+### example_training_imgs:  
+
 ![](example_training_imgs.jpg)  
 
-loss_curve:  
+### loss_curve:  
+
 ![](loss_curve.jpg)
 
 # Append
